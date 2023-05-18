@@ -1,0 +1,2 @@
+Hidden layers: (20, 10) 
+Max iterations: 20
